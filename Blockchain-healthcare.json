@@ -19,5 +19,13 @@
   "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Diet-Recall.md",
   "description": "Instead of creating a password a user has to select graphical objects in a particular order to keep it as their password",
   "tags": ["HealthCare", "Beginner", "App Development"]
-}
+} ,
+
+  {
+    "name": "Ticketless Entry System",
+    "imageSrc": "https://images.squarespace-cdn.com/content/v1/584ee3cc2994cac9e545aadd/1596821614007-SASZ45FE6IPAJPWAG54M/flat-design-illustration-concepts-online-cinema-ticket-order-hand-holding-mobile-smart-phone-with-online-buy-app-modern-flat-creative-info-graphics-design_143407-777.jpg?format=500w",
+    "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Ticketless-Entry.md",
+    "description": " Ticketless Entry System to Monuments and Museums enabled with a QR feature that allows the verification of visitors at the entry of the monument or the museum by scanning the QR code on their E-tickets.",
+    "tags": ["Tourism", "Intermediate"]
+  }
 ]
