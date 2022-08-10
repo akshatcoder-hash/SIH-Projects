@@ -1,7 +1,16 @@
+[
 {
   "name": "AI Chatbot to answer FAQs",
   "imageSrc": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/chatbot-inbenta.jpg",
   "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/AI-Chatbot.md",
   "description": "An AI-Based chatbot to answer some basic FAQs",
   "tags": ["AI", "Chatbot", "Beginner"]
+} ,
+{
+  "name": "Graphical Password Authentication",
+  "imageSrc": "https://3.imimg.com/data3/PG/IT/MY-11200775/graphical-password-authentication-using-cued-click-points-250x250.jpg",
+  "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Graphical-Password.md",
+  "description": "Instead of creating a password a user has to select graphical objects in a particular order to keep it as their password",
+  "tags": ["Blockchain", "Cybersecurity", "Intermediate"]
 }
+]
