@@ -34,5 +34,12 @@
     "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/AR-Classroom.md",
     "description": "Augmented reality models can be attached to a book",
     "tags": ["AR", "Beginner", "Augmented Reality"]
+  } ,
+  {
+    "name": "AI-enhanced OT security tool",
+    "imageSrc": "https://mma.prnewswire.com/media/1781520/Enterprises__Need_for_OT_Security_Expertise.jpg?p=facebook",
+    "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/AI-OT.md",
+    "description": "AI based tool to help discover devices and hidden patterns while processing large amounts of real-time pipeline operational data",
+    "tags": ["AI", "Beginner"]
   }
 ]
