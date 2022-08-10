@@ -12,5 +12,12 @@
   "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Graphical-Password.md",
   "description": "Instead of creating a password a user has to select graphical objects in a particular order to keep it as their password",
   "tags": ["Blockchain", "Cybersecurity", "Intermediate"]
+} ,
+{
+  "name": "Diet Recall Application",
+  "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoca9Y2vBdVyXpr8ucK8qOfXjWBceKjwk9PQ&usqp=CAU",
+  "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Diet-Recall.md",
+  "description": "Instead of creating a password a user has to select graphical objects in a particular order to keep it as their password",
+  "tags": ["HealthCare", "Beginner", "App Development"]
 }
 ]
