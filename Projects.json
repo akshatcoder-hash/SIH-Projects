@@ -41,5 +41,12 @@
     "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/AI-OT.md",
     "description": "AI based tool to help discover devices and hidden patterns while processing large amounts of real-time pipeline operational data",
     "tags": ["AI", "Beginner"]
+  } ,
+  {
+    "name": "Cyber Hygiene for students",
+    "imageSrc": "https://images.digitalguardian.com/sites/default/files/cyber_hygiene.png",
+    "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Cyber-Hygiene.md",
+    "description": "Devise a way to impart knowledge in children about cyber hygiene by fabrication of a cyber network that can be sustained through crowdsourcing.",
+    "tags": ["Beginner"]
   }
 ]
