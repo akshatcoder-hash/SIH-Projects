@@ -27,5 +27,12 @@
     "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/Ticketless-Entry.md",
     "description": " Ticketless Entry System to Monuments and Museums enabled with a QR feature that allows the verification of visitors at the entry of the monument or the museum by scanning the QR code on their E-tickets.",
     "tags": ["Tourism", "Intermediate"]
+  } , 
+  {
+    "name": "AR Based Classroom",
+    "imageSrc": "https://www.ebsco.com/sites/g/files/nabnos191/files/acquiadam-assets/top-ten-augmented-reality-tools-blog-image-780.jpg",
+    "projectLink": "https://github.com/FOSS-Community/KPB-Projects/blob/main/AR-Classroom.md",
+    "description": "Augmented reality models can be attached to a book",
+    "tags": ["AR", "Beginner", "Augmented Reality"]
   }
 ]
